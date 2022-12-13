@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "62cce55ebae4433bec3b4252"
+  },
+  "title": "Newyork Nagaram",
+  "artist": "Ar Rahman",
+  "src": "http://res.cloudinary.com/sathya195/raw/upload/v1657472466/sheygram_udemy/New_York_Nagaram_iwkytp.mp3",
+  "album": "Nuvvu Nenu Prema",
+  "year": {
+    "$numberInt": "2003"
+  },
+  "duration": "6.19",
+  "createdAt": "2022-07-10T17:01:06.026Z",
+  "updatedAt": "2022-07-10T17:01:06.026Z",
+  "__v": {
+    "$numberInt": "0"
+  }
+},
+
+{
+  "_id": {
+    "$oid": "62cce55ebae4433bec3b4253"
+  },
+  "title": "Despacito",
+  "artist": "Luic Fonci",
+  "src": "http://res.cloudinary.com/sathya195/raw/upload/v1657472724/sheygram_udemy/Despacito_PagalWorld_gzwb4z.mp3",
+  "album": "Private",
+  "year": {
+    "$numberInt": "2017"
+  },
+  "duration": "4.41",
+  "createdAt": "2022-07-10T17:05:24.010Z",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657816039236"
+    }
+  },
+  "__v": {
+    "$numberInt": "0"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cce55ebae4433bec3b4254"
+  },
+  "title": "Baby",
+  "artist": "Justin Beiber",
+  "src": "http://res.cloudinary.com/sathya195/raw/upload/v1657472786/sheygram_udemy/Baby_PagalWorld_wcxir4.mp3",
+  "album": "Private",
+  "year": {
+    "$numberInt": "2009"
+  },
+  "duration": "3.39",
+  "createdAt": "2022-07-10T17:06:26.074Z",
+  "updatedAt": "2022-07-10T17:06:26.074Z",
+  "__v": {
+    "$numberInt": "0"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cce55ebae4433bec3b4255"
+  },
+  "title": "Believer",
+  "artist": "Nibba",
+  "src": "http://res.cloudinary.com/sathya195/raw/upload/v1657473037/sheygram_udemy/Believer_PagalWorld_m7okhh.mp3",
+  "album": "Nibba Reddy",
+  "duration": "3.24",
+  "year": {
+    "$numberInt": "2016"
+  },
+  "createdAt": "2022-07-10T17:10:36.870Z",
+  "updatedAt": "2022-07-10T17:10:36.870Z",
+  "__v": {
+    "$numberInt": "0"
+  }
+},
+{
+  "_id": {
+    "$oid": "62cce55ebae4433bec3b4256"
+  },
+  "title": "Let me love you",
+  "artist": "Justin Beiber",
+  "src": "http://res.cloudinary.com/sathya195/raw/upload/v1657593889/sheygram_udemy/Let-Me-Love-You_320_PagalWorld_swwjse.mp3",
+  "album": "Private",
+  "duration": "3.25",
+  "year": {
+    "$numberInt": "2015"
+  },
+  "createdAt": "2022-07-12T02:44:50.349Z",
+  "updatedAt": "2022-07-12T02:44:50.349Z",
+  "__v": {
+    "$numberInt": "0"
+  }
+}]
